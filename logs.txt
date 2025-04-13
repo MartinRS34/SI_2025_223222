@@ -1,0 +1,15 @@
+*   f98d5c7 Merge branch '1-remove-a-task-by-name' Resolve problem
+|\  
+| * 0794c56 Remove a task by name
+* |   f4d5fc9 Merge pull request #11 from MartinRS34/3-list-tasks-sorted-by-name
+|\ \  
+| * | 4d01c35 List tasks sorted by name
+| |/  
+* |   6df34d0 Merge pull request #12 from MartinRS34/5-filter-tasks-by-category
+|\ \  
+| |/  
+|/|   
+| * a918e40 Filter tasks by category
+|/  
+* 4aad3d8 Add starter code
+* e98e40c Inital commit
